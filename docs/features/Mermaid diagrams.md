@@ -1,4 +1,5 @@
 ---
+lastSync: Mon Feb 09 2026 09:48:25 GMT+0300 (Москва, стандартное время)
 title: "Mermaid Diagrams"
 tags:
   - feature/transformer

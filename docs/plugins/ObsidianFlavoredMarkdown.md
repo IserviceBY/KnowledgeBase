@@ -1,4 +1,5 @@
 ---
+lastSync: Mon Feb 09 2026 09:46:19 GMT+0300 (Москва, стандартное время)
 title: ObsidianFlavoredMarkdown
 tags:
   - plugin/transformer

@@ -1,4 +1,5 @@
 ---
+lastSync: Mon Feb 09 2026 09:47:10 GMT+0300 (Москва, стандартное время)
 title: "Migrating from Quartz 3"
 ---
 

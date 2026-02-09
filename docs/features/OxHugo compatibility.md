@@ -1,4 +1,5 @@
 ---
+lastSync: Mon Feb 09 2026 09:48:20 GMT+0300 (Москва, стандартное время)
 title: "OxHugo Compatibility"
 tags:
   - feature/transformer

@@ -1,3 +1,6 @@
+---
+lastSync: Mon Feb 09 2026 09:49:26 GMT+0300 (Москва, стандартное время)
+---
 # Citizen Code of Conduct
 
 ## 1. Purpose

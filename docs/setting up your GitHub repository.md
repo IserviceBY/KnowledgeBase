@@ -1,4 +1,5 @@
 ---
+lastSync: Mon Feb 09 2026 09:46:00 GMT+0300 (Москва, стандартное время)
 title: Setting up your GitHub repository
 ---
 

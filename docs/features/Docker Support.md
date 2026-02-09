@@ -1,3 +1,6 @@
+---
+lastSync: Mon Feb 09 2026 09:48:41 GMT+0300 (Москва, стандартное время)
+---
 Quartz comes shipped with a Docker image that will allow you to preview your Quartz locally without installing Node.
 
 You can run the below one-liner to run Quartz in Docker.

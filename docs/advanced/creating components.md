@@ -1,4 +1,5 @@
 ---
+lastSync: Mon Feb 09 2026 09:49:18 GMT+0300 (Москва, стандартное время)
 title: Creating your own Quartz components
 ---
 

@@ -1,4 +1,5 @@
 ---
+lastSync: Mon Feb 09 2026 09:48:34 GMT+0300 (Москва, стандартное время)
 title: "Graph View"
 tags:
   - component

@@ -1,4 +1,5 @@
 ---
+lastSync: Mon Feb 09 2026 09:46:54 GMT+0300 (Москва, стандартное время)
 title: ContentIndex
 tags:
   - plugin/emitter

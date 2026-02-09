@@ -1,4 +1,5 @@
 ---
+lastSync: Mon Feb 09 2026 09:47:01 GMT+0300 (Москва, стандартное время)
 title: "Citations"
 tags:
   - plugin/transformer

@@ -1,4 +1,5 @@
 ---
+lastSync: Mon Feb 09 2026 09:46:03 GMT+0300 (Москва, стандартное время)
 title: TagPage
 tags:
   - plugin/emitter

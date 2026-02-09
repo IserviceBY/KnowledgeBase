@@ -1,4 +1,5 @@
 ---
+lastSync: Mon Feb 09 2026 09:48:39 GMT+0300 (Москва, стандартное время)
 title: Folder and Tag Listings
 tags:
   - feature/emitter
