@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Feb 10 2026 11:06:55 GMT+0300 (Moscow Standard Time)
+lastSync: Tue Feb 10 2026 11:19:33 GMT+0300 (Moscow Standard Time)
 ---
 # **What is File Transfer Protocol (FTP)?**
 
@@ -19,7 +19,13 @@ To connect to an FTP (File Transfer Protocol) server, you can use the ftp comman
 Once you execute the command, you will be prompted to enter your FTP server credentials, such as username and password, to complete the connection. Then you can begin giving the FTP Server commands.
 
 
+# **Secure File Transfer Protocol  (SFTP)/**FTPS (File Transfer Protocol Secure)******
 
+**Secure File Transfer Protocol  (SFTP)**** is a secure, encrypted network protocol used for transferring files between systems over SSH (Secure Shell). It replaces the insecure FTP by providing authentication and data encryption, making it ideal for secure file management.
+
+**FTPS (File Transfer Protocol Secure)** is a secure extension of FTP that adds Transport Layer Security (TLS) or Secure Sockets Layer (SSL) encryption to protect file transfers. It ensures data confidentiality and authentication, supporting compliance with security standards like HIPAA and PCI DSS. FTPS operates in implicit (port 990) or explicit (port 21) modes.
+
+# **The Biggest Disadvantages and Advantages of FTP**
 
 ## Disadvantages of Using FTP
 
@@ -66,9 +72,3 @@ If your file transfer is interrupted, you don’t have to worry about losing pro
 #### Recover Lost Data
 
 Top FTP providers make sure that data is never lost, even when unexpected events happen. With disaster recovery, your files are regularly and automatically backed up, so if there’s a flood, fire, or power outage, you don’t have to worry about losing data.
-
-
-
-
-
-Ultimately, the right FTP vendor is the answer to all your file transfer needs. When you do your research and choose and option that addresses your concerns, you’ll easily benefit from all the advantages of FTP.
