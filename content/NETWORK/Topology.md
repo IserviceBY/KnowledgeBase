@@ -1,5 +1,5 @@
 ---
-lastSync: Fri Feb 20 2026 09:08:40 GMT+0300 (Москва, стандартное время)
+lastSync: Fri Feb 20 2026 09:25:09 GMT+0300 (Moscow Standard Time)
 ---
 # Important Points
 
@@ -12,7 +12,7 @@ Network Topology is important because it defines how devices are connected and h
 # Star Topology
 
 In Star Topology, all the devices are connected to a single hub through a cable. This hub is the central node and all other nodes are connected to the central node. The hub can be passive in nature i.e., not an intelligent hub such as broadcasting devices, at the same time the hub can be intelligent known as an active hub. Active hubs have repeaters in them.
-![[Pasted image 20260210142708.png]]
+![]()https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Pasted%20image%2020260210142708.png?raw=true
 
 ## Advantages of Star Topology
 
@@ -32,7 +32,7 @@ In Star Topology, all the devices are connected to a single hub through a cable.
 # Bus Topology
 
 Bus Topology is a network type in which every computer and network device is connected to a single cable. It is bi-directional. It is a multi-point connection and a non-robust topology because if the backbone fails the topology crashes.
-![[Pasted image 20260210143525.png]]
+![]()https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Pasted%20image%2020260210143525.png?raw=true
 
 ## Advantages of Bus Topology
 
@@ -56,7 +56,7 @@ Bus Topology is a network type in which every computer and network device is con
 In a Ring Topology, it forms a ring connecting devices with exactly two neighboring devices. A number of repeaters are used for Ring topology with a large number of nodes, because if someone wants to send some data to the last node in the ring topology with 100 nodes, then the data will have to pass through 99 nodes to reach the 100th node. Hence to prevent data loss repeaters are used in the network.
 
 In-Ring Topology, the Token Ring Passing protocol is used by the workstations to transmit the data where, Token passing is a network access method in which a token is passed from one node to another node & Token is a frame that circulates around the network.
-![[Pasted image 20260210144047.png]]
+![]()https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Pasted%20image%2020260210144047.png?raw=true
 
 ## Operations of Ring Topology
 
@@ -79,7 +79,7 @@ In-Ring Topology, the Token Ring Passing protocol is used by the workstations to
 # Tree Topology
 
 Tree topology is the variation of the Star topology. This topology has a hierarchical flow of data. In Tree Topology, protocols like DHCP and SAC (Standard Automatic Configuration) are used.
-![[Pasted image 20260211103828.png]]
+![]()https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Pasted%20image%2020260211103828.png?raw=true
 
 ## Advantages of Tree Topology
 
@@ -96,7 +96,7 @@ Tree topology is the variation of the Star topology. This topology has a hierarc
 # Hybrid Topology
 
 Hybrid Topology is the combination of all the various types of topologies we have studied above. Hybrid Topology is used when the nodes are free to take any form. It means these can be individuals such as Ring or Star topology or can be a combination of various types of topologies seen above. Each individual topology uses the protocol that has been discussed earlier.
-![[Pasted image 20260211104138.png]]
+![]()https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Pasted%20image%2020260211104138.png?raw=true
 
 ## Advantages of Hybrid Topology
 

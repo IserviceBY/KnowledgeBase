@@ -1,5 +1,5 @@
 ---
-lastSync: Mon Feb 16 2026 12:21:15 GMT+0300 (Moscow Standard Time)
+lastSync: Fri Feb 20 2026 09:52:49 GMT+0300 (Moscow Standard Time)
 ---
 ## What is Ethernet?
 
@@ -23,8 +23,6 @@ Engineers at Xerox first developed Ethernet in the 1970s. Ethernet initially ran
 
 If two devices that share a hub try to transmit data at the same time, the packets can collide and create connectivity problems. To alleviate these digital traffic jams, IEEE developed the Carrier Sense Multiple Access with Collision Detection protocol. This protocol enables devices to check whether a given line is in use before initiating new transmissions.
 
-Later, Ethernet [hubs largely gave way to network switches](https://www.techtarget.com/searchnetworking/answer/Difference-between-a-router-switch-and-a-hub). Because a hub cannot discriminate between points on a network segment, it can't send data directly from point A to point B. Instead, whenever a network device sends a transmission via an input port, the hub copies the data and distributes it to all available output ports.
+Later, Ethernet hubs largely gave way to networks switches. Because a hub cannot discriminate between points on a network segment, it can't send data directly from point A to point B. Instead, whenever a network device sends a transmission via an input port, the hub copies the data and distributes it to all available output ports.
 
 In contrast, a switch intelligently sends any given port only the traffic intended for its devices rather than copies of any and all the transmissions on the network segment, thus improving security and efficiency.
-
-Like with other network types, involved computers must include a network interface card (NIC) to connect to Ethernet.

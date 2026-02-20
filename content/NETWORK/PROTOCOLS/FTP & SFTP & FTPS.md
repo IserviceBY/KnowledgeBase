@@ -1,5 +1,5 @@
 ---
-lastSync: Wed Feb 11 2026 10:48:23 GMT+0300 (Moscow Standard Time)
+lastSync: Fri Feb 20 2026 09:22:58 GMT+0300 (Moscow Standard Time)
 ---
 # **What is File Transfer Protocol (FTP)?**
 
@@ -15,7 +15,7 @@ lastSync: Wed Feb 11 2026 10:48:23 GMT+0300 (Moscow Standard Time)
 
 **To connect to an FTP (File Transfer Protocol) server, you can use the ftp command-line tool in most operating systems. Simply search for it in your applications. Here's an example command to connect to an FTP server:**
 
-**![[Pasted image 20260210095551.png]]**
+![]()https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Pasted%20image%2020260210095551.png?raw=true
 **Once you execute the command, you will be prompted to enter your FTP server credentials, such as username and password, to complete the connection. Then you can begin giving the FTP Server commands.**
 
 
