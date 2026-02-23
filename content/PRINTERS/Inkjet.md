@@ -1,7 +1,7 @@
 ---
-lastSync: Thu Feb 12 2026 14:15:01 GMT+0300 (Moscow Standard Time)
+lastSync: Mon Feb 23 2026 10:12:20 GMT+0300 (Moscow Standard Time)
 ---
-![[Pasted image 20260212135446.png]]
+![](https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Pasted%20image%2020260212135446.png?raw=true)
 
 
 Different types of inkjet printers form their droplets of ink in different ways. There are two main inkjet technologies currently used by printer manufacturers:
