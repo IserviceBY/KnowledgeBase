@@ -1,5 +1,5 @@
 ---
-lastSync: Wed Feb 25 2026 11:59:37 GMT+0300 (Moscow Standard Time)
+lastSync: Wed Feb 25 2026 12:14:36 GMT+0300 (Москва, стандартное время)
 ---
 The Open Systems Interconnection (OSI) model — is a conceptual model that divides network communication and interoperability into seven abstract layers. It provides a standardized model that enables different applications, computer systems and networks to communicate.
 ![](https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/OSI.png?raw=true)
