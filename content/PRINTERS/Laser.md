@@ -1,7 +1,7 @@
 ---
-lastSync: Mon Feb 23 2026 10:13:05 GMT+0300 (Moscow Standard Time)
+lastSync: Wed Feb 25 2026 12:00:21 GMT+0300 (Moscow Standard Time)
 ---
-![](https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Pasted%20image%2020260212093546.png?raw=true)
+![](https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Laser%20printer.png?raw=true)
 **Step-by-step**
 
 1. The moment you press print on your computer, tablet or mobile device, the information is sent to the printer memory, where the data is stored temporarily.  

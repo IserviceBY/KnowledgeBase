@@ -1,10 +1,9 @@
 ---
-lastSync: Mon Feb 23 2026 10:08:25 GMT+0300 (Moscow Standard Time)
+lastSync: Wed Feb 25 2026 11:58:16 GMT+0300 (Moscow Standard Time)
 ---
 ## How Sublimation Printing Works
 
-![](https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Pasted%20image%2020260223094914.png?raw=true)
-
+![](https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Sublimation%20printer.png?raw=true)
 Sublimation is when a solid material is heated, but, instead of becoming a liquid, it goes directly to the gas phase. At first, it may not seem like this would apply to printing. That is until you understand how dye sublimation printers work.
 
 Ink is stored in a sublimation printer as a liquid, and it becomes a solid once it is printed onto transfer paper and dries. To transfer a design, the paper is heated to a temperature between 350℉ and 450℉, at which point the ink turns into a gaseous state. During the transfer process, a special transfer paper with the solid ink is pressed against the medium, such as a fabric, ceramic, or polymer material.

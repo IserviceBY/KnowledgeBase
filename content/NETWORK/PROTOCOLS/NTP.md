@@ -1,14 +1,14 @@
 ---
-lastSync: Mon Feb 23 2026 10:13:39 GMT+0300 (Moscow Standard Time)
+lastSync: Wed Feb 25 2026 11:59:57 GMT+0300 (Moscow Standard Time)
 ---
 The Network Time Protocol (NTP) is a system for synchronizing the clocks of hosts and clients across the Internet. NTP is a protocol intended to synchronize all computers participating in the network to within a few milliseconds of Coordinated Universal Time (UTC). The core of the protocol is NTP’s clock discipline algorithm that adjusts the local computer’s clock time and tick frequency in response to an external source — such as another trusted NTP server, a radio or satellite receiver, or a telephone modem. A core problem in NTP is establishing the trust and accuracy of nodes in the NTP network. This is done through a combination of selection and filtering algorithms to choose from the most reliable and accurate peer in the synchronization network. NTP is running on millions of servers and clients across the world to keep accurate time on devices throughout the Internet.
-
 
 **NTP Network Architecture**
 
 NTP uses a hierarchical network architecture that forms a tree structure. Each level of this hierarchy is called a _stratum_ and is assigned a number starting with zero representing reference hardware clocks. A level one server is synchronized with a level zero server, and this relationship continues so that a server synchronized to a stratum n server runs at stratum n+1 n+1. The stratum number therefore represents the distance from an accurate reference clock. In general, the stratum of a node in the server is an indication of quality and reliability but this is not always the case; it is common to find stratum three time sources that are higher quality than other stratum two time sources.
 
-![](https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Pasted%20image%2020260211110347.png?raw=true)
+![](https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/NTP%20stratum.png?raw=true)
+
 
 Stratum 0
 
@@ -28,6 +28,4 @@ These are computers that are synchronized to stratum 2 servers. They employ the 
 
 And this hierarchy continues up to stratum 15. The following figure depicts the hierarchical nature of the NTP system. Reference clocks at the top of the hierarchy are accurate time pieces and stratum 1 are computers directly attached to those time pieces. From there, increasing strata numbers indicate where each computer synchronizes time data from.
 
-
-Source: 
-**https://sookocheff.com/post/time/how-does-ntp-work/**
+Source: **[https://sookocheff.com/post/time/how-does-ntp-work/](https://sookocheff.com/post/time/how-does-ntp-work/)**

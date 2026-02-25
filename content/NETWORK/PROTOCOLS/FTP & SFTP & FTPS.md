@@ -1,5 +1,5 @@
 ---
-lastSync: Fri Feb 20 2026 09:22:58 GMT+0300 (Moscow Standard Time)
+lastSync: Tue Feb 24 2026 14:38:51 GMT+0300 (Moscow Standard Time)
 ---
 # **What is File Transfer Protocol (FTP)?**
 
@@ -10,14 +10,6 @@ lastSync: Fri Feb 20 2026 09:22:58 GMT+0300 (Moscow Standard Time)
 **An FTP client is a piece of software you run on your computer that knows how to talk to an FTP server. We call this the "Client-Server Relationship." When connecting to an FTP server, most of the time, you would use an FTP client application. There are various clients available for file transfers, such as FileZilla, , WinSCP, or Coffee Cup Free FTP, which are popular choices.**
 
 **Overall, an FTP client acts as a bridge between your computer and the FTP server, enabling seamless interaction and efficient file transfers.**
-
-## **Connecting and Using an FTP Server**
-
-**To connect to an FTP (File Transfer Protocol) server, you can use the ftp command-line tool in most operating systems. Simply search for it in your applications. Here's an example command to connect to an FTP server:**
-
-![]()https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Pasted%20image%2020260210095551.png?raw=true
-**Once you execute the command, you will be prompted to enter your FTP server credentials, such as username and password, to complete the connection. Then you can begin giving the FTP Server commands.**
-
 
 # **Secure File Transfer Protocol  (SFTP)/**FTPS (File Transfer Protocol Secure)******
 
