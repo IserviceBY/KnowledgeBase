@@ -1,6 +1,7 @@
 ---
-lastSync: Tue Feb 24 2026 14:44:23 GMT+0300 (Moscow Standard Time)
+lastSync: Wed Feb 25 2026 15:37:31 GMT+0300 (Moscow Standard Time)
 ---
+![](https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Mail%20route.png?raw=true)
 # What is the Simple Mail Transfer Protocol (SMTP)?
 
 The Simple Mail Transfer Protocol (SMTP) is a technical standard for transmitting electronic mail (email) over a network. Like other networking protocols, SMTP allows computers and servers to exchange data regardless of their underlying hardware or software. Just as the use of a standardized form of addressing an envelope allows the postal service to operate, SMTP standardizes the way email travels from sender to recipient, making widespread email delivery possible.
