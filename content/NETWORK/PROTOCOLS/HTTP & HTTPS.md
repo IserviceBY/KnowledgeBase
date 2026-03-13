@@ -1,5 +1,5 @@
 ---
-lastSync: Fri Mar 13 2026 09:15:40 GMT+0300 (Moscow Standard Time)
+lastSync: Fri Mar 13 2026 09:53:27 GMT+0300 (Moscow Standard Time)
 ---
 HTTPS stands for HyperText Transfer Protocol Secure. It is the most common protocol for sending data between a web browser and a website. HTTPS is the secure variant of HTTP and is used to communicate between the user's browser and the website, ensuring that data transfer is encrypted for added security.
 
@@ -7,7 +7,7 @@ HTTPS stands for HyperText Transfer Protocol Secure. It is the most common proto
 
 HTTPS establishes the communication between the browser and the web server. It uses the Secure Socket Layer (SSL) and Transport Layer Security (TLS) protocol for establishing communication. The new version of SSL is TLS(Transport Layer Security).
 
-![[Working of HTTPS.png]]
+![](https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Working%20of%20HTTPS.png?raw=true)
 - HTTPS uses the conventional HTTP protocol and adds a layer of SSL/TLS over it.
 - The workflow of HTTP and HTTPS remains the same, the browsers and servers still communicate with each other using the HTTP protocol.
 - However, this is done over a secure SSL connection. The SSL connection is responsible for the encryption and decryption of the data that is being exchanged to ensure data safety.
