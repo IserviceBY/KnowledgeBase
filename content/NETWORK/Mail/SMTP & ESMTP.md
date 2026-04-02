@@ -1,5 +1,5 @@
 ---
-lastSync: Wed Feb 25 2026 15:37:31 GMT+0300 (Moscow Standard Time)
+lastSync: Fri Mar 13 2026 09:21:35 GMT+0300 (Moscow Standard Time)
 ---
 ![](https://github.com/IserviceBY/KnowledgeBase/blob/v4/Images/Mail%20route.png?raw=true)
 # What is the Simple Mail Transfer Protocol (SMTP)?
@@ -40,7 +40,7 @@ SMTP commands are predefined text-based instructions that tell a client or serve
 An SMTP server is a mail server that can send and receive emails using the SMTP protocol. Email clients connect directly with the email provider's SMTP server to begin sending an email. Several different software programs run on an SMTP server:
 
 - **Mail submission agent (MSA):** The MSA receives emails from the email client.
-- **Mail transfer agent (MTA):** The MTA transfers emails to the next server in the delivery chain. As described above, it may query the DNS to find the recipient domain's [mail exchange (MX) DNS record](https://www.cloudflare.com/learning/dns/dns-records/dns-mx-record/) if necessary.
+- **Mail transfer agent (MTA):** The MTA transfers emails to the next server in the delivery chain. As described above, it may query the DNS to find the recipient domain's.
 - **Mail delivery agent (MDA):** The MDA receives emails from MTAs and stores them in the recipient's email inbox.
 
 
